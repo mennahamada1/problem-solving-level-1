@@ -11,11 +11,11 @@ Each folder `Q01` to `Q10` contains:
 ## 🧠 Topics Covered
 
 - ✅ Conditional statements (if/else)
-- 🔁 Loops (for/while)
-- 📊 Arrays
-- 🔤 String manipulation
-- 🔁 Reversing strings
-- ✅ Boolean logic and ternary operators
+-  Loops (for/while)
+-  Arrays
+-  String manipulation
+-  Reversing strings
+-  Boolean logic and ternary operators
 
 ## 🛠 Technologies Used
 
@@ -28,5 +28,5 @@ Each folder `Q01` to `Q10` contains:
 
 ## 💡 Note
 
-This is Level 1 — more levels will be added soon 💪.  
+This is Level 1 — more levels will be added soon .  
 Stay tuned for more structured problem-solving challenges.
